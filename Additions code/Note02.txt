@@ -1,0 +1,4 @@
+========================= There are two parts of object ========================================
+1. Static part: creat only one time then we can use it many times
+2. Dynamic part: create many times if we want to use it many times
+========================= 
