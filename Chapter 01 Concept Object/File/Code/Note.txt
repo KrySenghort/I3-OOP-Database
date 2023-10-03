@@ -1,0 +1,73 @@
+==> Object are all identifiable entity models, concrete or abstract, handled by the software application.
+
+==> Structure is the sequence of data type that we can assign value in it. But for class we cannot assign the value to it.
+
+==> struct person{
+	int id;
+	string name;  # name is the internal state or data member. }
+==> struct p1 = {1,'Savin'}
+
+==> struct p2 = {2,'Piseth'}  # the p1 and p2 are objects.
+id and name are internal state of p. where p is object.
+==> printf('%d',p1.id)
+==> print('%s',p1.name)
+
+==> printf('%d',p2.id)
+==> print('%s',p2.name)
+# when no internal state, so it is not object.
+
+< primary datatype >
+< class type >
+
+==> member functions 
+==> Behavior : is the action capacities of object given by functions or sub-program 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

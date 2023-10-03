@@ -1,0 +1,7 @@
+==> there are two types of statistics such as : 
+    - descriptive statistics : is the statistics that we descripe.(We have known its characteristics already. 
+    - inferential statistics : is the statistic that we need to conclusion 
+
++ population is the whole thing that consists of all subjects(human or otherwise) that are being studied.
++ sample is a group of subjects selected from a population.
+200
